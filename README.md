@@ -29,7 +29,7 @@ A simple Node.js and MongoDB-based API for managing product data, including sear
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/product-api.git
+   git clone https://github.com/vaibhavvatsbhartiya/product-api.git
    cd product-api
    ```
 
